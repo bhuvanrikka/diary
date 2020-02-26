@@ -1,4 +1,6 @@
-#A Personal Diary App with CodeIgniter
+###################
+A Personal Diary App with CodeIgniter
+###################
 
 - Simple Login
 - Simple fetch with datepicker
